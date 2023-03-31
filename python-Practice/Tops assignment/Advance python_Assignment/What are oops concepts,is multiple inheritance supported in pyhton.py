@@ -1,0 +1,1 @@
+What are oops concepts? What are oops concepts? Is multiple inheritance supported in python

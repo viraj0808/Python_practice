@@ -1,0 +1,1 @@
+e will open first.txt in ‘r’ mode and will read the contents of first.txt. After that, we will open second.txt in ‘a’ mode and will append the content of first.txt into second.txt.

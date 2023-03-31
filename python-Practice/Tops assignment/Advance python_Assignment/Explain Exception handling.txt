@@ -1,0 +1,4 @@
+#Explain Exception handling? What is an Error in Python?
+---An exception is a Python object that represents an error.
+---Error is an illegal operation performed by the user 
+    which results in abnormal working of the program.
